@@ -1,0 +1,7 @@
+moviepy
+pillow
+imageio
+imageio-ffmpeg
+requests
+gtts
+pydub
