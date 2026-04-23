@@ -6,7 +6,7 @@ from moviepy.editor import *
 from PIL import Image, ImageDraw, ImageFont
 from gtts import gTTS
 
-TOKEN = "YOUR_BOT_TOKEN"   # ← yahan apna token daalo
+TOKEN = "8798640307:AAGLZQLZwdPzEMyJ-Se3kyTbt1kDE4iFPdQ"   # ← yahan apna token daalo
 
 # ---------- helpers ----------
 
